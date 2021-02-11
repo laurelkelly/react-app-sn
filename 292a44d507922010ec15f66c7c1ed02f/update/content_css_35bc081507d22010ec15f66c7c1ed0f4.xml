@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>react-app-css-bundle.css</name>
+        <style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}.App{text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{animation:App-logo-spin 20s linear infinite}}.App-header{background-color:#282c34;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@keyframes App-logo-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 21:51:29</sys_created_on>
+        <sys_id>35bc081507d22010ec15f66c7c1ed0f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>react-app-css-bundle.css</sys_name>
+        <sys_package display_value="React App" source="x_560781_react_app">292a44d507922010ec15f66c7c1ed02f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React App">292a44d507922010ec15f66c7c1ed02f</sys_scope>
+        <sys_update_name>content_css_35bc081507d22010ec15f66c7c1ed0f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 21:51:29</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>
